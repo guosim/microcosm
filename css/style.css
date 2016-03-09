@@ -44,7 +44,7 @@ hr {
 .dragonfly {
 	height: 640px;
 	width: 960px;
-	background-image: url("/assets/images/dragonfly.png");
+	background-image: url("https://github.com/guosim/microcosm/blob/gh-pages/assets/images/dragonfly.png");
 	background-repeat: no-repeat;
 	background-position: right bottom;
 	position: absolute;
