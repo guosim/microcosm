@@ -21,7 +21,7 @@ hr {
 	position: relative;
 	height: 600px;
 	width: 100%;
-	background-image: url("/assets/images/bg.jpg");
+	background-image: url(/assets/images/bg.jpg);
 	background-size: cover;
 	background-position: top center;
 	background-repeat: no-repeat;
@@ -33,7 +33,7 @@ hr {
 .logo{
 	height: 100px;
 	width: 100%;
-	background-image: url("/assets/images/logo.png");
+	background-image: url(/assets/images/logo.png);
 	background-position: center;
 	background-repeat: no-repeat;
 	position: absolute;
@@ -44,7 +44,7 @@ hr {
 .dragonfly {
 	height: 640px;
 	width: 960px;
-	background-image: url("https://github.com/guosim/microcosm/blob/gh-pages/assets/images/dragonfly.png");
+	background-image: url(dragonfly.png);
 	background-repeat: no-repeat;
 	background-position: right bottom;
 	position: absolute;
