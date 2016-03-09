@@ -1,0 +1,53 @@
+img {
+	max-width: 100%;
+}
+
+hr {
+	border-color: black;
+	background-color: black;
+	color: black;
+}
+
+.empty {
+	height: 30px;
+}
+
+#author {
+	font-style: italic;
+
+}
+
+.dragon-box {
+	position: relative;
+	height: 600px;
+	width: 100%;
+	background-image: url("/assets/images/bg.jpg");
+	background-size: cover;
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	overflow: hidden;
+
+}
+
+.logo{
+	height: 100px;
+	width: 100%;
+	background-image: url("/assets/images/logo.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	position: absolute;
+	top: 50%;
+	margin-top: -50px;
+}
+
+.dragonfly {
+	height: 640px;
+	width: 960px;
+	background-image: url("/assets/images/dragonfly.png");
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	position: absolute;
+	left: 30%;
+	top: 200px;
+}
